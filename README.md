@@ -1,15 +1,22 @@
-# 💫 About Me:
-🚀 Currently leading the GDSC (Google Developer Student Clubs) for the term 2023-2024, I'm on a mission to cultivate a dynamic tech community on campus. Together with my dedicated team, we're curating an array of engaging workshops, hackathons, and networking events designed to ignite passion for learning and spark innovation.
+# 💫 About Me:🌟 Aspiring Data Scientist | AI/ML Enthusiast | GDSC Lead (2023-2024)
 
-📚 Beyond my technical expertise, I'm deeply committed to a journey of perpetual growth and learning. I'm always on the lookout for fresh opportunities to broaden my knowledge and immerse myself in hands-on experiences. This zeal for learning is further fueled by my pursuit of a B.Tech in Artificial Intelligence and Data Science at Sri Manakula Vinayagar Engineering College.
+Hi, I’m Sharan Arvind, a final-year B.Tech student specializing in Artificial Intelligence and Data Science at Sri Manakula Vinayagar Engineering College, Puducherry. With a CGPA of 9.1, I am deeply passionate about leveraging AI to solve real-world problems and drive innovation.
 
-💡 Beyond the classroom, I thrive in the realm of organizing and participating in technical events. These experiences have not only fine-tuned my teamwork, communication, and problem-solving skills but have also laid a strong foundation for my future career as an engineer.
+🔬 Technical Expertise
+My journey in Artificial Intelligence has equipped me with skills in predictive modeling, deep learning, and natural language processing. I’ve built impactful projects, including:
 
-🌐 I'm eager to connect with fellow professionals in the industry and explore the myriad of potential career paths that lie ahead. Don't hesitate to reach out if you'd like to learn more about my background and experiences. Together, let's forge a path of innovation!
+Truth Tracker: A deep fake detection tool that identifies 80% of misleading content.
+Health Loss Prevention System (HL-PS): An AI-powered diagnostic platform for personalized health risk analysis and wellness insights.
+💡 Leadership & Achievements
+During my tenure as the Google Developer Students Club (GDSC) Lead (2023-2024), I organized workshops, hackathons, and community initiatives that inspired innovation and collaboration among students. I’m proud to have contributed to a vibrant tech ecosystem on campus.
 
-🔗 Having delved extensively into Blockchain technology, I've gleaned profound insights into its transformative power and its myriad real-world applications. From pioneering decentralized systems to ensuring secure transactions, my expertise in Blockchain has become a pivotal component of my technical repertoire.
+🏆 My achievements include securing top positions in hackathons like Scale91+ and REVA Hackathon and ranking among the Top 100 Solutions in the GDSC Solution Challenge.
 
-🤖 My journey through Artificial Intelligence and Data Science has been nothing short of exhilarating. It's brought me face-to-face with cutting-edge technologies poised to revolutionize industries. From crafting predictive models to delving into the nuances of natural language processing, I'm brimming with excitement about the boundless opportunities these fields present.
+♟️ Beyond Technology
+Outside the world of coding and algorithms, I’m a passionate chess player with experience competing at the state and national levels. I enjoy sharing this passion by teaching others, fostering strategic thinking and patience.
+
+🌐 Let’s Connect
+I’m eager to explore opportunities in AI/ML, collaborate with like-minded professionals, and contribute to groundbreaking innovations. Feel free to connect with me to exchange ideas or discuss potential opportunities.
 
 
 ## 🌐 Socials:
