@@ -1,4 +1,4 @@
-# 💫 About Me:🌟 Aspiring Data Scientist | AI/ML Enthusiast | GDSC Lead (2023-2024)
+🌟 Aspiring Data Scientist | AI/ML Enthusiast | GDSC Lead (2023-2024)
 
 Hi, I’m Sharan Arvind, a final-year B.Tech student specializing in Artificial Intelligence and Data Science at Sri Manakula Vinayagar Engineering College, Puducherry. With a CGPA of 9.1, I am deeply passionate about leveraging AI to solve real-world problems and drive innovation.
 
